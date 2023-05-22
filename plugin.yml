@@ -1,0 +1,5 @@
+name: oneway.dev.mrauro
+version: '1.0-SNAPSHOT'
+main: oneway.dev.mrauro.Dev.mrauro
+api-version: 1.19
+authors: [ Auro ]
