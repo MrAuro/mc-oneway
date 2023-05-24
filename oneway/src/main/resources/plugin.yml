@@ -1,0 +1,4 @@
+name: oneway
+version: '${project.version}'
+main: dev.mrauro.oneway.Oneway
+api-version: 1.19
